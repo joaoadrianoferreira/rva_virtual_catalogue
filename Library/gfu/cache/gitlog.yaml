@@ -1,0 +1,1688 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-12-05T11:46:02.428+00:00
+  initializedAtString: 2019-12-05T11:46:02.410+00:00
+  log:
+  - commitID: f37c2f387dbc2e18001aeed905087edcf694c6b2
+    mergeA: 
+    mergeB: 
+    authorName: "Jo\xE3o Adriano Teixeira Ferreira"
+    authorEmail: joaoadrianoferreira@gmail.com
+    commitEmail: joaoadrianoferreira@gmail.com
+    commitName: "Jo\xE3o Adriano Teixeira Ferreira"
+    summary: build
+    description: 
+    timeString: 2019-12-05T10:19:28.000+00:00
+    commitTimeString: 2019-12-05T10:19:28.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\jat_f\VitualCatalogue\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Build\VirtualCatalogue.apk
+      fullPath: C:\Users\jat_f\VitualCatalogue\Build\VirtualCatalogue.apk
+      projectPath: Build\VirtualCatalogue.apk
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: e56867180c77d141a90d47b8f4b0c3ba88c009c6
+    mergeA: 
+    mergeB: 
+    authorName: "Jo\xE3o Adriano Teixeira Ferreira"
+    authorEmail: joaoadrianoferreira@gmail.com
+    commitEmail: joaoadrianoferreira@gmail.com
+    commitName: "Jo\xE3o Adriano Teixeira Ferreira"
+    summary: first commit
+    description: 
+    timeString: 2019-12-05T10:11:43.000+00:00
+    commitTimeString: 2019-12-05T10:11:43.000+00:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\jat_f\VitualCatalogue\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\jat_f\VitualCatalogue\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue.meta
+      projectPath: Assets\Catalogue.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue\Images.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue\Images.meta
+      projectPath: Assets\Catalogue\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue\Scene.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue\Scene.meta
+      projectPath: Assets\Catalogue\Scene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue\Scene\Catalogue.unity
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue\Scene\Catalogue.unity
+      projectPath: Assets\Catalogue\Scene\Catalogue.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue\Scene\Catalogue.unity.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue\Scene\Catalogue.unity.meta
+      projectPath: Assets\Catalogue\Scene\Catalogue.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Catalogue\Scripts.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Catalogue\Scripts.meta
+      projectPath: Assets\Catalogue\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor.meta
+      projectPath: Assets\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia.meta
+      projectPath: Assets\Editor\Vuforia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures.meta
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images.meta
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Body_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\RocketBooster.Top_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml.meta
+      projectPath: Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\CylinderTarget.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\CylinderTarget.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\CylinderTarget.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf
+      projectPath: Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\CylinderTarget\cylinder_booster_USLetter.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\ImageTargets.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\ImageTargets.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\ImageTargets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf
+      projectPath: Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\ImageTargets\target_images_USLetter.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\MultiTarget.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\MultiTarget.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\MultiTarget.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf
+      projectPath: Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf.meta
+      projectPath: Assets\Editor\Vuforia\ForPrint\MultiTarget\mars_box_USLetter.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaEmulator\emulator_ground_plane_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Astronaut_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Drone_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Fissure_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Back_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Bottom_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Front_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Left_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Right_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\MarsBox.Top_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg.meta
+      projectPath: Assets\Editor\Vuforia\ImageTargetTextures\VuforiaMars_Images\Oxygen_scaled.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home.meta
+      projectPath: Assets\Home.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images.meta
+      projectPath: Assets\Home\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags.meta
+      projectPath: Assets\Home\Images\Flags.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\poland.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\poland.png
+      projectPath: Assets\Home\Images\Flags\poland.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\poland.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\poland.png.meta
+      projectPath: Assets\Home\Images\Flags\poland.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\portugal.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\portugal.png
+      projectPath: Assets\Home\Images\Flags\portugal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\portugal.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\portugal.png.meta
+      projectPath: Assets\Home\Images\Flags\portugal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\united-kingdom.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\united-kingdom.png
+      projectPath: Assets\Home\Images\Flags\united-kingdom.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Flags\united-kingdom.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Flags\united-kingdom.png.meta
+      projectPath: Assets\Home\Images\Flags\united-kingdom.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Icons.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Icons.meta
+      projectPath: Assets\Home\Images\Icons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Icons\Icon.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Icons\Icon.png
+      projectPath: Assets\Home\Images\Icons\Icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Icons\Icon.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Icons\Icon.png.meta
+      projectPath: Assets\Home\Images\Icons\Icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Images.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Images.meta
+      projectPath: Assets\Home\Images\Images.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Images\Home.jpg
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Images\Home.jpg
+      projectPath: Assets\Home\Images\Images\Home.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Images\Images\Home.jpg.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Images\Images\Home.jpg.meta
+      projectPath: Assets\Home\Images\Images\Home.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scene.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scene.meta
+      projectPath: Assets\Home\Scene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scene\Home.unity
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scene\Home.unity
+      projectPath: Assets\Home\Scene\Home.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scene\Home.unity.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scene\Home.unity.meta
+      projectPath: Assets\Home\Scene\Home.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scripts.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scripts.meta
+      projectPath: Assets\Home\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scripts\LanguegeHandler.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scripts\LanguegeHandler.cs
+      projectPath: Assets\Home\Scripts\LanguegeHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scripts\LanguegeHandler.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scripts\LanguegeHandler.cs.meta
+      projectPath: Assets\Home\Scripts\LanguegeHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scripts\start.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scripts\start.cs
+      projectPath: Assets\Home\Scripts\start.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Home\Scripts\start.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Home\Scripts\start.cs.meta
+      projectPath: Assets\Home\Scripts\start.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\VuforiaConfiguration.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Resources\VuforiaConfiguration.asset
+      projectPath: Assets\Resources\VuforiaConfiguration.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Resources\VuforiaConfiguration.asset.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Resources\VuforiaConfiguration.asset.meta
+      projectPath: Assets\Resources\VuforiaConfiguration.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets.meta
+      projectPath: Assets\StreamingAssets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets\Vuforia.meta
+      projectPath: Assets\StreamingAssets\Vuforia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat
+      projectPath: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat.meta
+      projectPath: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.dat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml
+      projectPath: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml.meta
+      projectPath: Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia.meta
+      projectPath: Assets\Vuforia.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases.meta
+      projectPath: Assets\Vuforia\Databases.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\Emulator.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\Emulator.meta
+      projectPath: Assets\Vuforia\Databases\Emulator.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat
+      projectPath: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat.meta
+      projectPath: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.dat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml
+      projectPath: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml.meta
+      projectPath: Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\ForPrint.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\ForPrint.meta
+      projectPath: Assets\Vuforia\Databases\ForPrint.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\ForPrint\Emulator.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\ForPrint\Emulator.meta
+      projectPath: Assets\Vuforia\Databases\ForPrint\Emulator.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\ForPrint\Emulator\Emulator Ground Plane.pdf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\ForPrint\Emulator\Emulator
+        Ground Plane.pdf
+      projectPath: Assets\Vuforia\Databases\ForPrint\Emulator\Emulator Ground Plane.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Databases\ForPrint\Emulator\Emulator Ground Plane.pdf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Databases\ForPrint\Emulator\Emulator
+        Ground Plane.pdf.meta
+      projectPath: Assets\Vuforia\Databases\ForPrint\Emulator\Emulator Ground Plane.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor.meta
+      projectPath: Assets\Vuforia\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor\Scripts.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor\Scripts.meta
+      projectPath: Assets\Vuforia\Editor\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs
+      projectPath: Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs.meta
+      projectPath: Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef
+      projectPath: Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef.meta
+      projectPath: Assets\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Fonts.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Fonts.meta
+      projectPath: Assets\Vuforia\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Fonts\SourceSansPro.ttf
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Fonts\SourceSansPro.ttf
+      projectPath: Assets\Vuforia\Fonts\SourceSansPro.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Fonts\SourceSansPro.ttf.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Fonts\SourceSansPro.ttf.meta
+      projectPath: Assets\Vuforia\Fonts\SourceSansPro.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials.meta
+      projectPath: Assets\Vuforia\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\CloudRecoTarget.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\CloudRecoTarget.mat
+      projectPath: Assets\Vuforia\Materials\CloudRecoTarget.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\CloudRecoTarget.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\CloudRecoTarget.mat.meta
+      projectPath: Assets\Vuforia\Materials\CloudRecoTarget.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\ColoredLines.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\ColoredLines.mat
+      projectPath: Assets\Vuforia\Materials\ColoredLines.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\ColoredLines.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\ColoredLines.mat.meta
+      projectPath: Assets\Vuforia\Materials\ColoredLines.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\DefaultTarget.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\DefaultTarget.mat
+      projectPath: Assets\Vuforia\Materials\DefaultTarget.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\DefaultTarget.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\DefaultTarget.mat.meta
+      projectPath: Assets\Vuforia\Materials\DefaultTarget.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\DepthMask.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\DepthMask.mat
+      projectPath: Assets\Vuforia\Materials\DepthMask.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\DepthMask.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\DepthMask.mat.meta
+      projectPath: Assets\Vuforia\Materials\DepthMask.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GroundPlaneIndicator.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GroundPlaneIndicator.mat
+      projectPath: Assets\Vuforia\Materials\GroundPlaneIndicator.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GroundPlaneIndicator.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GroundPlaneIndicator.mat.meta
+      projectPath: Assets\Vuforia\Materials\GroundPlaneIndicator.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GroundPlaneReference.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GroundPlaneReference.mat
+      projectPath: Assets\Vuforia\Materials\GroundPlaneReference.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GroundPlaneReference.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GroundPlaneReference.mat.meta
+      projectPath: Assets\Vuforia\Materials\GroundPlaneReference.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GuideView2D.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GuideView2D.mat
+      projectPath: Assets\Vuforia\Materials\GuideView2D.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\GuideView2D.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\GuideView2D.mat.meta
+      projectPath: Assets\Vuforia\Materials\GuideView2D.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\MidAirIndicator.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\MidAirIndicator.mat
+      projectPath: Assets\Vuforia\Materials\MidAirIndicator.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\MidAirIndicator.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\MidAirIndicator.mat.meta
+      projectPath: Assets\Vuforia\Materials\MidAirIndicator.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\MidAirReference.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\MidAirReference.mat
+      projectPath: Assets\Vuforia\Materials\MidAirReference.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\MidAirReference.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\MidAirReference.mat.meta
+      projectPath: Assets\Vuforia\Materials\MidAirReference.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\OutlineOpaque.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\OutlineOpaque.mat
+      projectPath: Assets\Vuforia\Materials\OutlineOpaque.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\OutlineOpaque.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\OutlineOpaque.mat.meta
+      projectPath: Assets\Vuforia\Materials\OutlineOpaque.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\StandardCutout.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\StandardCutout.mat
+      projectPath: Assets\Vuforia\Materials\StandardCutout.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\StandardCutout.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\StandardCutout.mat.meta
+      projectPath: Assets\Vuforia\Materials\StandardCutout.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\UserDefinedTarget.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\UserDefinedTarget.mat
+      projectPath: Assets\Vuforia\Materials\UserDefinedTarget.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\UserDefinedTarget.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\UserDefinedTarget.mat.meta
+      projectPath: Assets\Vuforia\Materials\UserDefinedTarget.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat
+      projectPath: Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat.meta
+      projectPath: Assets\Vuforia\Materials\VirtualButtonPreviewMaterial.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs.meta
+      projectPath: Assets\Vuforia\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab
+      projectPath: Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab.meta
+      projectPath: Assets\Vuforia\Prefabs\DefaultMidAirIndicator.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab
+      projectPath: Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab.meta
+      projectPath: Assets\Vuforia\Prefabs\DefaultPlaneIndicator.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\GroundPlaneReference.prefab
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\GroundPlaneReference.prefab
+      projectPath: Assets\Vuforia\Prefabs\GroundPlaneReference.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\GroundPlaneReference.prefab.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\GroundPlaneReference.prefab.meta
+      projectPath: Assets\Vuforia\Prefabs\GroundPlaneReference.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\MidAirReference.prefab
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\MidAirReference.prefab
+      projectPath: Assets\Vuforia\Prefabs\MidAirReference.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Prefabs\MidAirReference.prefab.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Prefabs\MidAirReference.prefab.meta
+      projectPath: Assets\Vuforia\Prefabs\MidAirReference.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts.meta
+      projectPath: Assets\Vuforia\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\BoundingBoxRenderer.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\BoundingBoxRenderer.cs
+      projectPath: Assets\Vuforia\Scripts\BoundingBoxRenderer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\BoundingBoxRenderer.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\BoundingBoxRenderer.cs.meta
+      projectPath: Assets\Vuforia\Scripts\BoundingBoxRenderer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs
+      projectPath: Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs.meta
+      projectPath: Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs
+      projectPath: Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs.meta
+      projectPath: Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs
+      projectPath: Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs.meta
+      projectPath: Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\Internal.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\Internal.meta
+      projectPath: Assets\Vuforia\Scripts\Internal.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs
+      projectPath: Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs.meta
+      projectPath: Assets\Vuforia\Scripts\Internal\RuntimeOpenSourceInitializer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\VuforiaScripts.asmdef
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\VuforiaScripts.asmdef
+      projectPath: Assets\Vuforia\Scripts\VuforiaScripts.asmdef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Scripts\VuforiaScripts.asmdef.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Scripts\VuforiaScripts.asmdef.meta
+      projectPath: Assets\Vuforia\Scripts\VuforiaScripts.asmdef.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders.meta
+      projectPath: Assets\Vuforia\Shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\BrightTexture.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\BrightTexture.shader
+      projectPath: Assets\Vuforia\Shaders\BrightTexture.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\BrightTexture.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\BrightTexture.shader.meta
+      projectPath: Assets\Vuforia\Shaders\BrightTexture.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\CameraDiffuse.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\CameraDiffuse.shader
+      projectPath: Assets\Vuforia\Shaders\CameraDiffuse.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\CameraDiffuse.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\CameraDiffuse.shader.meta
+      projectPath: Assets\Vuforia\Shaders\CameraDiffuse.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\ClippingMask.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\ClippingMask.shader
+      projectPath: Assets\Vuforia\Shaders\ClippingMask.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\ClippingMask.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\ClippingMask.shader.meta
+      projectPath: Assets\Vuforia\Shaders\ClippingMask.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\ColoredLines.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\ColoredLines.shader
+      projectPath: Assets\Vuforia\Shaders\ColoredLines.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\ColoredLines.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\ColoredLines.shader.meta
+      projectPath: Assets\Vuforia\Shaders\ColoredLines.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\DepthContour.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\DepthContour.shader
+      projectPath: Assets\Vuforia\Shaders\DepthContour.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\DepthContour.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\DepthContour.shader.meta
+      projectPath: Assets\Vuforia\Shaders\DepthContour.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\DepthMask.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\DepthMask.shader
+      projectPath: Assets\Vuforia\Shaders\DepthMask.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\DepthMask.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\DepthMask.shader.meta
+      projectPath: Assets\Vuforia\Shaders\DepthMask.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\OutlineOpaque.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\OutlineOpaque.shader
+      projectPath: Assets\Vuforia\Shaders\OutlineOpaque.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\OutlineOpaque.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\OutlineOpaque.shader.meta
+      projectPath: Assets\Vuforia\Shaders\OutlineOpaque.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\Text3D.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\Text3D.shader
+      projectPath: Assets\Vuforia\Shaders\Text3D.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\Text3D.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\Text3D.shader.meta
+      projectPath: Assets\Vuforia\Shaders\Text3D.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VertexLitWithZ.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VertexLitWithZ.shader
+      projectPath: Assets\Vuforia\Shaders\VertexLitWithZ.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VertexLitWithZ.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VertexLitWithZ.shader.meta
+      projectPath: Assets\Vuforia\Shaders\VertexLitWithZ.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VideoBackground.shader
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VideoBackground.shader
+      projectPath: Assets\Vuforia\Shaders\VideoBackground.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VideoBackground.shader.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VideoBackground.shader.meta
+      projectPath: Assets\Vuforia\Shaders\VideoBackground.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc.meta
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_RGB.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc.meta
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_YUV420P_YUVYV12.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc.meta
+      projectPath: Assets\Vuforia\Shaders\VuforiaVB_YUVNV12_YUVNV21.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc
+      projectPath: Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc.meta
+      projectPath: Assets\Vuforia\Shaders\VuforiaVideoBackground.cginc.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures.meta
+      projectPath: Assets\Vuforia\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\CloudRecoTarget.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\CloudRecoTarget.png
+      projectPath: Assets\Vuforia\Textures\CloudRecoTarget.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\CloudRecoTarget.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\CloudRecoTarget.png.meta
+      projectPath: Assets\Vuforia\Textures\CloudRecoTarget.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\GroundPlaneReference.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\GroundPlaneReference.png
+      projectPath: Assets\Vuforia\Textures\GroundPlaneReference.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\GroundPlaneReference.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\GroundPlaneReference.png.meta
+      projectPath: Assets\Vuforia\Textures\GroundPlaneReference.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\MidAirReference.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\MidAirReference.png
+      projectPath: Assets\Vuforia\Textures\MidAirReference.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\MidAirReference.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\MidAirReference.png.meta
+      projectPath: Assets\Vuforia\Textures\MidAirReference.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\Reticle.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\Reticle.png
+      projectPath: Assets\Vuforia\Textures\Reticle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\Reticle.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\Reticle.png.meta
+      projectPath: Assets\Vuforia\Textures\Reticle.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\UserDefinedTarget.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\UserDefinedTarget.png
+      projectPath: Assets\Vuforia\Textures\UserDefinedTarget.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\UserDefinedTarget.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\UserDefinedTarget.png.meta
+      projectPath: Assets\Vuforia\Textures\UserDefinedTarget.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\VideoBackground.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\VideoBackground.png
+      projectPath: Assets\Vuforia\Textures\VideoBackground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\VideoBackground.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\VideoBackground.png.meta
+      projectPath: Assets\Vuforia\Textures\VideoBackground.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\VirtualButtonPreview.png
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\VirtualButtonPreview.png
+      projectPath: Assets\Vuforia\Textures\VirtualButtonPreview.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\Textures\VirtualButtonPreview.png.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\Textures\VirtualButtonPreview.png.meta
+      projectPath: Assets\Vuforia\Textures\VirtualButtonPreview.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\version
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\version
+      projectPath: Assets\Vuforia\version
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Vuforia\version.meta
+      fullPath: C:\Users\jat_f\VitualCatalogue\Assets\Vuforia\version.meta
+      projectPath: Assets\Vuforia\version.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\jat_f\VitualCatalogue\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\jat_f\VitualCatalogue\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

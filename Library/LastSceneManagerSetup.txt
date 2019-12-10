@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Catalogue/Scene/Catalogue.unity
+  isLoaded: 1
+  isActive: 1
