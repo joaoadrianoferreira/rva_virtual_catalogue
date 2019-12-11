@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-12-05T11:44:02.833+00:00
-  initializedAtString: 2019-12-05T10:23:22.932+00:00
+  lastUpdatedAtString: 2019-12-11T22:19:08.527+00:00
+  initializedAtString: 2019-12-11T22:19:08.527+00:00
   currentGitRemote:
     name: origin
-    url: git@github.com:joaoadrianoferreira/rva_virtual_catalogue.git
+    url: https://github.com/joaoadrianoferreira/rva_virtual_catalogue.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: git@github.com:joaoadrianoferreira/rva_virtual_catalogue.git
+      url: https://github.com/joaoadrianoferreira/rva_virtual_catalogue.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: git@github.com:joaoadrianoferreira/rva_virtual_catalogue.git
+    url: https://github.com/joaoadrianoferreira/rva_virtual_catalogue.git
   currentHead: 
