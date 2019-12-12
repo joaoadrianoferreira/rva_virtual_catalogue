@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Hugo Esteves/Documents/GitHub/rva_virtual_catalogue/Build/VirtualCatalogue.apk
+C:/Users/jat_f/VitualCatalogue/Build/VirtualCatalogue.apk
 SceneListBegin?
 Assets/Home/Scene/Home.unity
 Assets/Catalogue/Scene/Catalogue.unity
